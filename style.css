@@ -1,0 +1,41 @@
+
+
+.center {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+.left {
+  float: left;
+  padding: 10 px;
+}
+
+.right {
+  float: right;
+  padding: 10 px;
+}
+
+.top {
+position: relative;
+top: 100%;
+}
+
+.bottom{
+  position: relative;
+  bottom: 100%;
+}
+head {
+  position: relative;
+  top: 100%;
+}
+body {
+  margin: auto;
+  width: 50%;
+  border: 3px solid green;
+  padding: 10px;
+}
+footer {
+  position: relative;
+  bottom: 100%;
+}
